@@ -1,0 +1,21 @@
+{
+  "name": "nodeserv",
+  "version": "0.1.1",
+  "description": "web server testing with node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasticrabbit/nodeserv.git"
+  },
+  "author": "fantastic rabbit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fantasticrabbit/nodeserv/issues"
+  },
+  "homepage": "https://github.com/fantasticrabbit/nodeserv#readme"
+}
