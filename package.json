@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fantasticrabbit/nodeserv/issues"
   },
-  "homepage": "https://github.com/fantasticrabbit/nodeserv#readme"
+  "homepage": "https://github.com/fantasticrabbit/nodeserv#readme",
+  "dependencies": {
+    "whatwg-url": "^11.0.0"
+  }
 }

@@ -1,3 +1,4 @@
 import * as server from './server.js';
+import * as router from './router.js';
 
-server.start();
+server.start(router.route);
